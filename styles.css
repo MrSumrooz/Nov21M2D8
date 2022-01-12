@@ -1,0 +1,68 @@
+.FirstHeading{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.FirstHeadingP{
+    text-align: center;
+    font-size: large;
+    color: #8E898D;
+}
+.FirstColumn{
+    flex-grow: 3;
+   
+
+    text-align: center;
+    height: 400px;
+    background-color: green;
+}
+.FirstColumn p{
+    text-align: center;
+    margin-top: 25%;
+    color: #8E898D;
+}
+.SecondColumn{
+    flex-grow: 1;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.SecondColumn p{
+    text-align: center;
+    margin-top: 100%;
+}
+.ThirdColumn{
+    background-color: rgba(255, 255, 0, 0.692);
+}
+
+.ForthColumn{
+    background-color: rgba(255, 255, 0, 0.452);
+}
+.FifthColumn{
+    background-color: rgba(255, 255, 0, 0.363);
+}
+
+
+
+.Allcolumns{
+
+    border: 2px solid black;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.exercise2{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+}
+.exercisep{
+    text-align: center;
+    font-size: x-large;
+    width: 50%;
+    color: #8E898D;
+
+}
