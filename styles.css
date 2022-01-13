@@ -67,7 +67,23 @@
 
 }
 
+.exercise3p{
+    text-align: center;
+    font-size: large;
+    font-weight: 600;
+}
+
 .btn:hover{
             background-color: white;
             color: black;
+}
+
+#ex3{
+    background-color: #F8F9FA;
+}
+
+.exercise4p{
+    text-align: center;
+    font-size: large;
+    color: #8E898D;
 }
